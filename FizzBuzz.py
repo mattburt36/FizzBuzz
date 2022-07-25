@@ -1,4 +1,3 @@
-from re import I
 from time import sleep
 
 inNum = int(input("Please enter a number to run FizzBuzz to "))
@@ -9,7 +8,7 @@ sleep(2)
 
 FizzBuzz_List = [] 
 
-def FizzBuzz(up_to, fizz, buzz):
+def FizzBuzz(up_to, fizz, buzz)
 
     FizzBuzz_Tuple = ()
 
